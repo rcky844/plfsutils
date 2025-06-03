@@ -4,7 +4,7 @@
 """
 Usage:
     plfsutils.py --help
-    plfsutils.py <filename>
+    plfsutils.py [-o OUTPUT] <filename> <action>
 """
 
 import os
